@@ -1,0 +1,31 @@
+:root {
+  --blue: #0092CE;
+  --dark: #013D7B;
+}
+
+body {
+  font-family: "Poppins";
+}
+
+.navbar .navbar-brand {
+  color: var(--dark);
+  font-weight: bold
+}
+
+#home {
+  margin-top: 40%;
+  height: 80vh;
+}
+
+.buton {
+  background-color: var(--blue);
+  color: white;
+}
+
+#product {
+  background-color: var(--dark);
+}
+
+#social-media {
+  background-color: var(--blue)
+}
